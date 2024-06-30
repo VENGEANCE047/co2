@@ -1,0 +1,618 @@
+Fugacity Coefficient for CO2 : 0.767245
+Henry's coefficient for CO2 : 2190.05
+Equilbrium constant for H2O : 91.6266
+Vapour Phase Mole Fraction of H2O : 0.980633
+Liquid Phase Mole Fraction of CO2 : 0.0107025
+
+Fugacity Coefficient for CO2 : 0.455096
+Henry's coefficient for CO2 : 3012.37
+Equilbrium constant for H2O : 113.036
+Vapour Phase Mole Fraction of H2O : 0.993443
+Liquid Phase Mole Fraction of CO2 : 0.00878872
+
+Fugacity Coefficient for CO2 : 0.710486
+Henry's coefficient for CO2 : 3509.91
+Equilbrium constant for H2O : 59.8507
+Vapour Phase Mole Fraction of H2O : 0.988329
+Liquid Phase Mole Fraction of CO2 : 0.0165133
+
+Fugacity Coefficient for CO2 : 0.64914
+Henry's coefficient for CO2 : 3594.61
+Equilbrium constant for H2O : 52.7862
+Vapour Phase Mole Fraction of H2O : 0.990595
+Liquid Phase Mole Fraction of CO2 : 0.0187662
+
+Fugacity Coefficient for CO2 : 0.555561
+Henry's coefficient for CO2 : 3747.19
+Equilbrium constant for H2O : 46.0331
+Vapour Phase Mole Fraction of H2O : 0.992983
+Liquid Phase Mole Fraction of CO2 : 0.0215711
+
+Fugacity Coefficient for CO2 : 0.489699
+Henry's coefficient for CO2 : 3900.86
+Equilbrium constant for H2O : 41.8993
+Vapour Phase Mole Fraction of H2O : 0.994374
+Liquid Phase Mole Fraction of CO2 : 0.0237325
+
+Fugacity Coefficient for CO2 : 0.459189
+Henry's coefficient for CO2 : 3998.53
+Equilbrium constant for H2O : 39.8203
+Vapour Phase Mole Fraction of H2O : 0.994989
+Liquid Phase Mole Fraction of CO2 : 0.024987
+
+Fugacity Coefficient for CO2 : 0.875686
+Henry's coefficient for CO2 : 4221.23
+Equilbrium constant for H2O : 98.2964
+Vapour Phase Mole Fraction of H2O : 0.976685
+Liquid Phase Mole Fraction of CO2 : 0.00993612
+
+Fugacity Coefficient for CO2 : 0.761908
+Henry's coefficient for CO2 : 4429.7
+Equilbrium constant for H2O : 55.8074
+Vapour Phase Mole Fraction of H2O : 0.98844
+Liquid Phase Mole Fraction of CO2 : 0.0177116
+
+Fugacity Coefficient for CO2 : 0.712687
+Henry's coefficient for CO2 : 4532.06
+Equilbrium constant for H2O : 48.0765
+Vapour Phase Mole Fraction of H2O : 0.990692
+Liquid Phase Mole Fraction of CO2 : 0.0206066
+
+Fugacity Coefficient for CO2 : 0.635835
+Henry's coefficient for CO2 : 4716.15
+Equilbrium constant for H2O : 40.2196
+Vapour Phase Mole Fraction of H2O : 0.993067
+Liquid Phase Mole Fraction of CO2 : 0.0246911
+
+Fugacity Coefficient for CO2 : 0.598379
+Henry's coefficient for CO2 : 4824.23
+Equilbrium constant for H2O : 37.3269
+Vapour Phase Mole Fraction of H2O : 0.993951
+Liquid Phase Mole Fraction of CO2 : 0.0266283
+
+Fugacity Coefficient for CO2 : 0.575197
+Henry's coefficient for CO2 : 4901.16
+Equilbrium constant for H2O : 35.6702
+Vapour Phase Mole Fraction of H2O : 0.994448
+Liquid Phase Mole Fraction of CO2 : 0.0278789
+
+Fugacity Coefficient for CO2 : 0.520402
+Henry's coefficient for CO2 : 5132.63
+Equilbrium constant for H2O : 31.836
+Vapour Phase Mole Fraction of H2O : 0.995528
+Liquid Phase Mole Fraction of CO2 : 0.0312705
+
+Fugacity Coefficient for CO2 : 0.732209
+Henry's coefficient for CO2 : 4490.36
+Equilbrium constant for H2O : 52.6402
+Vapour Phase Mole Fraction of H2O : 0.989887
+Liquid Phase Mole Fraction of CO2 : 0.0188048
+
+Fugacity Coefficient for CO2 : 0.721559
+Henry's coefficient for CO2 : 4517.82
+Equilbrium constant for H2O : 50.9977
+Vapour Phase Mole Fraction of H2O : 0.990347
+Liquid Phase Mole Fraction of CO2 : 0.0194194
+
+Fugacity Coefficient for CO2 : 0.875061
+Henry's coefficient for CO2 : 4230.9
+Equilbrium constant for H2O : 101.213
+Vapour Phase Mole Fraction of H2O : 0.976847
+Liquid Phase Mole Fraction of CO2 : 0.00965142
+
+Fugacity Coefficient for CO2 : 0.822319
+Henry's coefficient for CO2 : 4323.81
+Equilbrium constant for H2O : 73.8946
+Vapour Phase Mole Fraction of H2O : 0.984061
+Liquid Phase Mole Fraction of CO2 : 0.0133171
+
+Fugacity Coefficient for CO2 : 0.820961
+Henry's coefficient for CO2 : 4326.29
+Equilbrium constant for H2O : 73.4072
+Vapour Phase Mole Fraction of H2O : 0.984191
+Liquid Phase Mole Fraction of CO2 : 0.0134073
+
+Fugacity Coefficient for CO2 : 0.877755
+Henry's coefficient for CO2 : 4230.61
+Equilbrium constant for H2O : 103.149
+Vapour Phase Mole Fraction of H2O : 0.97634
+Liquid Phase Mole Fraction of CO2 : 0.00946535
+
+Fugacity Coefficient for CO2 : 0.769212
+Henry's coefficient for CO2 : 4429.31
+Equilbrium constant for H2O : 59.1474
+Vapour Phase Mole Fraction of H2O : 0.988061
+Liquid Phase Mole Fraction of CO2 : 0.0167051
+
+Fugacity Coefficient for CO2 : 0.769396
+Henry's coefficient for CO2 : 4438.31
+Equilbrium constant for H2O : 59.0594
+Vapour Phase Mole Fraction of H2O : 0.988077
+Liquid Phase Mole Fraction of CO2 : 0.0167302
+
+Fugacity Coefficient for CO2 : 0.849609
+Henry's coefficient for CO2 : 3337.72
+Equilbrium constant for H2O : 105.125
+Vapour Phase Mole Fraction of H2O : 0.976484
+Liquid Phase Mole Fraction of CO2 : 0.00928879
+
+Fugacity Coefficient for CO2 : 0.710486
+Henry's coefficient for CO2 : 3509.91
+Equilbrium constant for H2O : 62.0877
+Vapour Phase Mole Fraction of H2O : 0.988322
+Liquid Phase Mole Fraction of CO2 : 0.0159182
+
+Fugacity Coefficient for CO2 : 0.555561
+Henry's coefficient for CO2 : 3747.19
+Equilbrium constant for H2O : 47.7312
+Vapour Phase Mole Fraction of H2O : 0.992978
+Liquid Phase Mole Fraction of CO2 : 0.0208036
+
+Fugacity Coefficient for CO2 : 0.514008
+Henry's coefficient for CO2 : 3836.93
+Equilbrium constant for H2O : 45.0493
+Vapour Phase Mole Fraction of H2O : 0.993869
+Liquid Phase Mole Fraction of CO2 : 0.0220618
+
+Fugacity Coefficient for CO2 : 0.489699
+Henry's coefficient for CO2 : 3900.86
+Equilbrium constant for H2O : 43.4296
+Vapour Phase Mole Fraction of H2O : 0.99437
+Liquid Phase Mole Fraction of CO2 : 0.0228962
+
+Fugacity Coefficient for CO2 : 0.459189
+Henry's coefficient for CO2 : 3998.53
+Equilbrium constant for H2O : 41.265
+Vapour Phase Mole Fraction of H2O : 0.994985
+Liquid Phase Mole Fraction of CO2 : 0.0241121
+
+Fugacity Coefficient for CO2 : 0.875686
+Henry's coefficient for CO2 : 4221.23
+Equilbrium constant for H2O : 101.905
+Vapour Phase Mole Fraction of H2O : 0.976677
+Liquid Phase Mole Fraction of CO2 : 0.00958422
+
+Fugacity Coefficient for CO2 : 0.761908
+Henry's coefficient for CO2 : 4429.7
+Equilbrium constant for H2O : 57.8573
+Vapour Phase Mole Fraction of H2O : 0.988433
+Liquid Phase Mole Fraction of CO2 : 0.017084
+
+Fugacity Coefficient for CO2 : 0.635835
+Henry's coefficient for CO2 : 4716.15
+Equilbrium constant for H2O : 41.6858
+Vapour Phase Mole Fraction of H2O : 0.993061
+Liquid Phase Mole Fraction of CO2 : 0.0238225
+
+Fugacity Coefficient for CO2 : 0.575197
+Henry's coefficient for CO2 : 4901.16
+Equilbrium constant for H2O : 36.962
+Vapour Phase Mole Fraction of H2O : 0.994443
+Liquid Phase Mole Fraction of CO2 : 0.0269045
+
+Fugacity Coefficient for CO2 : 0.520402
+Henry's coefficient for CO2 : 5132.63
+Equilbrium constant for H2O : 32.9784
+Vapour Phase Mole Fraction of H2O : 0.995523
+Liquid Phase Mole Fraction of CO2 : 0.0301871
+
+Fugacity Coefficient for CO2 : 0.880302
+Henry's coefficient for CO2 : 4996.94
+Equilbrium constant for H2O : 104.363
+Vapour Phase Mole Fraction of H2O : 0.980285
+Liquid Phase Mole Fraction of CO2 : 0.00939304
+
+Fugacity Coefficient for CO2 : 0.796075
+Henry's coefficient for CO2 : 2900.42
+Equilbrium constant for H2O : 109.733
+Vapour Phase Mole Fraction of H2O : 0.980974
+Liquid Phase Mole Fraction of CO2 : 0.00893965
+
+Fugacity Coefficient for CO2 : 0.6173
+Henry's coefficient for CO2 : 3081.41
+Equilbrium constant for H2O : 71.7639
+Vapour Phase Mole Fraction of H2O : 0.990281
+Liquid Phase Mole Fraction of CO2 : 0.0137991
+
+Fugacity Coefficient for CO2 : 0.493513
+Henry's coefficient for CO2 : 3249.36
+Equilbrium constant for H2O : 62.4006
+Vapour Phase Mole Fraction of H2O : 0.993214
+Liquid Phase Mole Fraction of CO2 : 0.0159167
+
+Fugacity Coefficient for CO2 : 0.800045
+Henry's coefficient for CO2 : 2901.63
+Equilbrium constant for H2O : 111.372
+Vapour Phase Mole Fraction of H2O : 0.980598
+Liquid Phase Mole Fraction of CO2 : 0.00880471
+
+Fugacity Coefficient for CO2 : 0.618788
+Henry's coefficient for CO2 : 3085.31
+Equilbrium constant for H2O : 71.8057
+Vapour Phase Mole Fraction of H2O : 0.990252
+Liquid Phase Mole Fraction of CO2 : 0.0137907
+
+Fugacity Coefficient for CO2 : 0.480851
+Henry's coefficient for CO2 : 3276.59
+Equilbrium constant for H2O : 61.3642
+Vapour Phase Mole Fraction of H2O : 0.993494
+Liquid Phase Mole Fraction of CO2 : 0.0161901
+
+Fugacity Coefficient for CO2 : 0.481105
+Henry's coefficient for CO2 : 3279.23
+Equilbrium constant for H2O : 61.3312
+Vapour Phase Mole Fraction of H2O : 0.993494
+Liquid Phase Mole Fraction of CO2 : 0.0161988
+
+Fugacity Coefficient for CO2 : 0.404731
+Henry's coefficient for CO2 : 3483.91
+Equilbrium constant for H2O : 54.439
+Vapour Phase Mole Fraction of H2O : 0.995121
+Liquid Phase Mole Fraction of CO2 : 0.0182796
+
+Fugacity Coefficient for CO2 : 0.329001
+Henry's coefficient for CO2 : 3927.69
+Equilbrium constant for H2O : 44.2248
+Vapour Phase Mole Fraction of H2O : 0.996752
+Liquid Phase Mole Fraction of CO2 : 0.0225383
+
+Fugacity Coefficient for CO2 : 0.873964
+Henry's coefficient for CO2 : 5010.39
+Equilbrium constant for H2O : 99.5266
+Vapour Phase Mole Fraction of H2O : 0.981324
+Liquid Phase Mole Fraction of CO2 : 0.00985991
+
+Fugacity Coefficient for CO2 : 0.760039
+Henry's coefficient for CO2 : 5316
+Equilbrium constant for H2O : 55.7425
+Vapour Phase Mole Fraction of H2O : 0.990888
+Liquid Phase Mole Fraction of CO2 : 0.0177762
+
+Fugacity Coefficient for CO2 : 0.620173
+Henry's coefficient for CO2 : 5851.48
+Equilbrium constant for H2O : 36.9625
+Vapour Phase Mole Fraction of H2O : 0.995079
+Liquid Phase Mole Fraction of CO2 : 0.0269213
+
+Fugacity Coefficient for CO2 : 0.875703
+Henry's coefficient for CO2 : 5009.72
+Equilbrium constant for H2O : 100.717
+Vapour Phase Mole Fraction of H2O : 0.981066
+Liquid Phase Mole Fraction of CO2 : 0.00974078
+
+Fugacity Coefficient for CO2 : 0.768114
+Henry's coefficient for CO2 : 5295.93
+Equilbrium constant for H2O : 57.3702
+Vapour Phase Mole Fraction of H2O : 0.990522
+Liquid Phase Mole Fraction of CO2 : 0.0172654
+
+Fugacity Coefficient for CO2 : 0.678837
+Henry's coefficient for CO2 : 5595.92
+Equilbrium constant for H2O : 43.1842
+Vapour Phase Mole Fraction of H2O : 0.993702
+Liquid Phase Mole Fraction of CO2 : 0.0230108
+
+Fugacity Coefficient for CO2 : 0.678689
+Henry's coefficient for CO2 : 5594.14
+Equilbrium constant for H2O : 43.1937
+Vapour Phase Mole Fraction of H2O : 0.993702
+Liquid Phase Mole Fraction of CO2 : 0.0230057
+
+Fugacity Coefficient for CO2 : 0.610156
+Henry's coefficient for CO2 : 5910.28
+Equilbrium constant for H2O : 35.936
+Vapour Phase Mole Fraction of H2O : 0.995294
+Liquid Phase Mole Fraction of CO2 : 0.0276963
+
+Fugacity Coefficient for CO2 : 0.525071
+Henry's coefficient for CO2 : 6584.53
+Equilbrium constant for H2O : 27.6656
+Vapour Phase Mole Fraction of H2O : 0.996887
+Liquid Phase Mole Fraction of CO2 : 0.0360334
+
+Fugacity Coefficient for CO2 : 0.828156
+Henry's coefficient for CO2 : 2395.58
+Equilbrium constant for H2O : 197.571
+Vapour Phase Mole Fraction of H2O : 0.97481
+Liquid Phase Mole Fraction of CO2 : 0.00493397
+
+Fugacity Coefficient for CO2 : 0.773473
+Henry's coefficient for CO2 : 2435.27
+Equilbrium constant for H2O : 158.148
+Vapour Phase Mole Fraction of H2O : 0.981053
+Liquid Phase Mole Fraction of CO2 : 0.00620338
+
+Fugacity Coefficient for CO2 : 0.722031
+Henry's coefficient for CO2 : 2473.76
+Equilbrium constant for H2O : 136.353
+Vapour Phase Mole Fraction of H2O : 0.984686
+Liquid Phase Mole Fraction of CO2 : 0.00722162
+
+Fugacity Coefficient for CO2 : 0.663003
+Henry's coefficient for CO2 : 2518.52
+Equilbrium constant for H2O : 121.229
+Vapour Phase Mole Fraction of H2O : 0.987446
+Liquid Phase Mole Fraction of CO2 : 0.00814526
+
+Fugacity Coefficient for CO2 : 0.604589
+Henry's coefficient for CO2 : 2561.54
+Equilbrium constant for H2O : 113.156
+Vapour Phase Mole Fraction of H2O : 0.989274
+Liquid Phase Mole Fraction of CO2 : 0.0087426
+
+Fugacity Coefficient for CO2 : 0.772265
+Henry's coefficient for CO2 : 2925.74
+Equilbrium constant for H2O : 140.681
+Vapour Phase Mole Fraction of H2O : 0.983024
+Liquid Phase Mole Fraction of CO2 : 0.0069876
+
+Fugacity Coefficient for CO2 : 0.663508
+Henry's coefficient for CO2 : 3035.22
+Equilbrium constant for H2O : 107.133
+Vapour Phase Mole Fraction of H2O : 0.988799
+Liquid Phase Mole Fraction of CO2 : 0.00922963
+
+Fugacity Coefficient for CO2 : 0.560528
+Henry's coefficient for CO2 : 3150.32
+Equilbrium constant for H2O : 93.4593
+Vapour Phase Mole Fraction of H2O : 0.991681
+Liquid Phase Mole Fraction of CO2 : 0.0106108
+
+Fugacity Coefficient for CO2 : 0.480451
+Henry's coefficient for CO2 : 3277.39
+Equilbrium constant for H2O : 84.837
+Vapour Phase Mole Fraction of H2O : 0.993473
+Liquid Phase Mole Fraction of CO2 : 0.0117104
+
+Fugacity Coefficient for CO2 : 0.427162
+Henry's coefficient for CO2 : 3406.68
+Equilbrium constant for H2O : 78.0935
+Vapour Phase Mole Fraction of H2O : 0.994615
+Liquid Phase Mole Fraction of CO2 : 0.0127362
+
+Fugacity Coefficient for CO2 : 0.87611
+Henry's coefficient for CO2 : 4217.06
+Equilbrium constant for H2O : 171.994
+Vapour Phase Mole Fraction of H2O : 0.976485
+Liquid Phase Mole Fraction of CO2 : 0.00567745
+
+Fugacity Coefficient for CO2 : 0.84387
+Henry's coefficient for CO2 : 4272.7
+Equilbrium constant for H2O : 139.487
+Vapour Phase Mole Fraction of H2O : 0.981547
+Liquid Phase Mole Fraction of CO2 : 0.00703684
+
+Fugacity Coefficient for CO2 : 0.809661
+Henry's coefficient for CO2 : 4334.43
+Equilbrium constant for H2O : 117.128
+Vapour Phase Mole Fraction of H2O : 0.985078
+Liquid Phase Mole Fraction of CO2 : 0.00841029
+
+Fugacity Coefficient for CO2 : 0.777697
+Henry's coefficient for CO2 : 4394.92
+Equilbrium constant for H2O : 102.541
+Vapour Phase Mole Fraction of H2O : 0.987414
+Liquid Phase Mole Fraction of CO2 : 0.00962948
+
+Fugacity Coefficient for CO2 : 0.71817
+Henry's coefficient for CO2 : 4516.25
+Equilbrium constant for H2O : 84.3566
+Vapour Phase Mole Fraction of H2O : 0.990387
+Liquid Phase Mole Fraction of CO2 : 0.0117405
+
+Fugacity Coefficient for CO2 : 0.858603
+Henry's coefficient for CO2 : 5049.71
+Equilbrium constant for H2O : 123.895
+Vapour Phase Mole Fraction of H2O : 0.983444
+Liquid Phase Mole Fraction of CO2 : 0.00793772
+
+Fugacity Coefficient for CO2 : 0.792494
+Henry's coefficient for CO2 : 5223.69
+Equilbrium constant for H2O : 87.2322
+Vapour Phase Mole Fraction of H2O : 0.989163
+Liquid Phase Mole Fraction of CO2 : 0.0113394
+
+Fugacity Coefficient for CO2 : 0.732359
+Henry's coefficient for CO2 : 5404.57
+Equilbrium constant for H2O : 69.4287
+Vapour Phase Mole Fraction of H2O : 0.991979
+Liquid Phase Mole Fraction of CO2 : 0.0142877
+
+Fugacity Coefficient for CO2 : 0.679943
+Henry's coefficient for CO2 : 5589.3
+Equilbrium constant for H2O : 59.0177
+Vapour Phase Mole Fraction of H2O : 0.993629
+Liquid Phase Mole Fraction of CO2 : 0.0168361
+
+Fugacity Coefficient for CO2 : 0.634807
+Henry's coefficient for CO2 : 5781.77
+Equilbrium constant for H2O : 51.9279
+Vapour Phase Mole Fraction of H2O : 0.994731
+Liquid Phase Mole Fraction of CO2 : 0.019156
+
+Fugacity Coefficient for CO2 : 0.820468
+Henry's coefficient for CO2 : 2404.43
+Equilbrium constant for H2O : 261.505
+Vapour Phase Mole Fraction of H2O : 0.975899
+Liquid Phase Mole Fraction of CO2 : 0.00373186
+
+Fugacity Coefficient for CO2 : 0.738611
+Henry's coefficient for CO2 : 2464.74
+Equilbrium constant for H2O : 195.08
+Vapour Phase Mole Fraction of H2O : 0.983656
+Liquid Phase Mole Fraction of CO2 : 0.00504232
+
+Fugacity Coefficient for CO2 : 0.680512
+Henry's coefficient for CO2 : 2508.84
+Equilbrium constant for H2O : 170.973
+Vapour Phase Mole Fraction of H2O : 0.986725
+Liquid Phase Mole Fraction of CO2 : 0.00577122
+
+Fugacity Coefficient for CO2 : 0.649133
+Henry's coefficient for CO2 : 2532.56
+Equilbrium constant for H2O : 162.483
+Vapour Phase Mole Fraction of H2O : 0.987929
+Liquid Phase Mole Fraction of CO2 : 0.00608022
+
+Fugacity Coefficient for CO2 : 0.607978
+Henry's coefficient for CO2 : 2562.79
+Equilbrium constant for H2O : 155.067
+Vapour Phase Mole Fraction of H2O : 0.989169
+Liquid Phase Mole Fraction of CO2 : 0.00637898
+
+Fugacity Coefficient for CO2 : 0.480851
+Henry's coefficient for CO2 : 3276.59
+Equilbrium constant for H2O : 114.46
+Vapour Phase Mole Fraction of H2O : 0.993445
+Liquid Phase Mole Fraction of CO2 : 0.00867942
+
+Fugacity Coefficient for CO2 : 0.764284
+Henry's coefficient for CO2 : 2933.49
+Equilbrium constant for H2O : 187.42
+Vapour Phase Mole Fraction of H2O : 0.983598
+Liquid Phase Mole Fraction of CO2 : 0.0052481
+
+Fugacity Coefficient for CO2 : 0.655552
+Henry's coefficient for CO2 : 3043.53
+Equilbrium constant for H2O : 144.002
+Vapour Phase Mole Fraction of H2O : 0.989049
+Liquid Phase Mole Fraction of CO2 : 0.00686831
+
+Fugacity Coefficient for CO2 : 0.553321
+Henry's coefficient for CO2 : 3159.71
+Equilbrium constant for H2O : 125.675
+Vapour Phase Mole Fraction of H2O : 0.991826
+Liquid Phase Mole Fraction of CO2 : 0.00789198
+
+Fugacity Coefficient for CO2 : 0.481676
+Henry's coefficient for CO2 : 3274.96
+Equilbrium constant for H2O : 114.597
+Vapour Phase Mole Fraction of H2O : 0.993427
+Liquid Phase Mole Fraction of CO2 : 0.00866889
+
+Fugacity Coefficient for CO2 : 0.430782
+Henry's coefficient for CO2 : 3396.1
+Equilbrium constant for H2O : 105.397
+Vapour Phase Mole Fraction of H2O : 0.99452
+Liquid Phase Mole Fraction of CO2 : 0.00943597
+
+Fugacity Coefficient for CO2 : 0.678689
+Henry's coefficient for CO2 : 5594.14
+Equilbrium constant for H2O : 77.4629
+Vapour Phase Mole Fraction of H2O : 0.993637
+Liquid Phase Mole Fraction of CO2 : 0.0128273
+
+Fugacity Coefficient for CO2 : 0.85123
+Henry's coefficient for CO2 : 5068.09
+Equilbrium constant for H2O : 160.698
+Vapour Phase Mole Fraction of H2O : 0.984292
+Liquid Phase Mole Fraction of CO2 : 0.0061251
+
+Fugacity Coefficient for CO2 : 0.789877
+Henry's coefficient for CO2 : 5231.05
+Equilbrium constant for H2O : 116.171
+Vapour Phase Mole Fraction of H2O : 0.989286
+Liquid Phase Mole Fraction of CO2 : 0.00851578
+
+Fugacity Coefficient for CO2 : 0.729865
+Henry's coefficient for CO2 : 5412.69
+Equilbrium constant for H2O : 91.7221
+Vapour Phase Mole Fraction of H2O : 0.992041
+Liquid Phase Mole Fraction of CO2 : 0.0108157
+
+Fugacity Coefficient for CO2 : 0.679896
+Henry's coefficient for CO2 : 5589.48
+Equilbrium constant for H2O : 77.7571
+Vapour Phase Mole Fraction of H2O : 0.993604
+Liquid Phase Mole Fraction of CO2 : 0.0127783
+
+Fugacity Coefficient for CO2 : 0.632835
+Henry's coefficient for CO2 : 5791.19
+Equilbrium constant for H2O : 67.2094
+Vapour Phase Mole Fraction of H2O : 0.994751
+Liquid Phase Mole Fraction of CO2 : 0.0148008
+
+Fugacity Coefficient for CO2 : 0.480851
+Henry's coefficient for CO2 : 3276.59
+Equilbrium constant for H2O : 137.738
+Vapour Phase Mole Fraction of H2O : 0.993435
+Liquid Phase Mole Fraction of CO2 : 0.00721251
+
+Fugacity Coefficient for CO2 : 0.800045
+Henry's coefficient for CO2 : 2901.63
+Equilbrium constant for H2O : 260.241
+Vapour Phase Mole Fraction of H2O : 0.980502
+Liquid Phase Mole Fraction of CO2 : 0.00376767
+
+Fugacity Coefficient for CO2 : 0.618788
+Henry's coefficient for CO2 : 3085.31
+Equilbrium constant for H2O : 164.842
+Vapour Phase Mole Fraction of H2O : 0.990176
+Liquid Phase Mole Fraction of CO2 : 0.0060068
+
+Fugacity Coefficient for CO2 : 0.481105
+Henry's coefficient for CO2 : 3279.23
+Equilbrium constant for H2O : 137.653
+Vapour Phase Mole Fraction of H2O : 0.993435
+Liquid Phase Mole Fraction of CO2 : 0.00721694
+
+Fugacity Coefficient for CO2 : 0.404731
+Henry's coefficient for CO2 : 3483.91
+Equilbrium constant for H2O : 119.219
+Vapour Phase Mole Fraction of H2O : 0.995072
+Liquid Phase Mole Fraction of CO2 : 0.00834661
+
+Fugacity Coefficient for CO2 : 0.329001
+Henry's coefficient for CO2 : 3927.69
+Equilbrium constant for H2O : 91.9409
+Vapour Phase Mole Fraction of H2O : 0.996713
+Liquid Phase Mole Fraction of CO2 : 0.0108408
+
+Fugacity Coefficient for CO2 : 0.678689
+Henry's coefficient for CO2 : 5594.14
+Equilbrium constant for H2O : 91.4012
+Vapour Phase Mole Fraction of H2O : 0.993624
+Liquid Phase Mole Fraction of CO2 : 0.010871
+
+Fugacity Coefficient for CO2 : 0.875703
+Henry's coefficient for CO2 : 5009.72
+Equilbrium constant for H2O : 232.062
+Vapour Phase Mole Fraction of H2O : 0.980963
+Liquid Phase Mole Fraction of CO2 : 0.00422715
+
+Fugacity Coefficient for CO2 : 0.768114
+Henry's coefficient for CO2 : 5295.93
+Equilbrium constant for H2O : 127.032
+Vapour Phase Mole Fraction of H2O : 0.990431
+Liquid Phase Mole Fraction of CO2 : 0.0077967
+
+Fugacity Coefficient for CO2 : 0.678837
+Henry's coefficient for CO2 : 5595.92
+Equilbrium constant for H2O : 91.3768
+Vapour Phase Mole Fraction of H2O : 0.993624
+Liquid Phase Mole Fraction of CO2 : 0.0108739
+
+Fugacity Coefficient for CO2 : 0.610156
+Henry's coefficient for CO2 : 5910.28
+Equilbrium constant for H2O : 72.4979
+Vapour Phase Mole Fraction of H2O : 0.995227
+Liquid Phase Mole Fraction of CO2 : 0.0137277
+
+Fugacity Coefficient for CO2 : 0.525071
+Henry's coefficient for CO2 : 6584.53
+Equilbrium constant for H2O : 50.5663
+Vapour Phase Mole Fraction of H2O : 0.996834
+Liquid Phase Mole Fraction of CO2 : 0.0197134
+
+Fugacity Coefficient for CO2 : 0.480851
+Henry's coefficient for CO2 : 3276.59
+Equilbrium constant for H2O : 163.882
+Vapour Phase Mole Fraction of H2O : 0.993428
+Liquid Phase Mole Fraction of CO2 : 0.00606186
+
+Fugacity Coefficient for CO2 : 0.678689
+Henry's coefficient for CO2 : 5594.14
+Equilbrium constant for H2O : 106.282
+Vapour Phase Mole Fraction of H2O : 0.993614
+Liquid Phase Mole Fraction of CO2 : 0.00934883
+
